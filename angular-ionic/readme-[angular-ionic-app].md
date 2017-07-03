@@ -1,5 +1,5 @@
-- # infinitree - Angular & Ionic
-Standardization for tree structured data - Viewers, editors and server (.itree filetype)
+- # infinitree - Angular & Ionic App
+Standardization for tree structured data - Web Editors (.itree filetype)
 
 ----------------------------------------------------------------
 
@@ -26,14 +26,3 @@ App main features:
 - History/undo
 - Viewchanger
 - Print views
-
-----------------------------------------------------------------
-
-iTree Server features:
-
-- Accounts
-- Colaborate
-- Share
-- Follow notifications
-- Generate raports
-- Settings
