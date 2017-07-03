@@ -1,0 +1,150 @@
+HTML, BODY, DIV, SPAN, APPLET, OBJECT, IFRAME, H1, H2, H3, H4, H5, H6, P, BLOCKQUOTE, PRE, A, ABBR, ACRONYM, ADDRESS, BIG, CITE, CODE, DEL, DFN, EM, IMG, INS, KBD, Q, S, SAMP, SMALL, STRIKE, STRONG, SUB, SUP, TT, VAR, B, U, I, CENTER, DL, DT, DD, OL, UL, LI, FIELDSET, FORM, LABEL, LEGEND, TABLE, CAPTION, TBODY, TFOOT, THEAD, TR, TH, TD, ARTICLE, ASIDE, CANVAS, DETAILS, EMBED, FIGURE, FIGCAPTION, FOOTER, HEADER, HGROUP, MENU, NAV, OUTPUT, RUBY, SECTION, SUMMARY, TIME, MARK, AUDIO, VIDEO
+{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+HTML
+{
+	background-color: #FFFFFF;
+}
+/*HTML5 display-role reset for older browsers*/
+ARTICLE, ASIDE, DETAILS, FIGCAPTION, FIGURE, FOOTER, HEADER, HGROUP, MENU, NAV, SECTION
+{
+	display: block;
+}
+BODY
+{
+	line-height: 1;
+}
+OL, UL
+{
+	list-style: none;
+}
+BLOCKQUOTE, Q
+{
+	quotes: none;
+}
+BLOCKQUOTE:before, BLOCKQUOTE:after, Q:before, Q:after
+{
+	content: '';
+	content: none;
+}
+TABLE
+{
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+.hidden
+{
+	display: none !important;
+}
+BODY
+{
+	background-color: #000;
+	color: #FFF;
+}
+#mainContainer A
+{
+	display: block;
+	padding: 10px 0 10px 10px;
+	color: #222;
+	text-decoration: none;
+}
+#mainContainer A:hover
+{
+	background-color: #2A6DB4;
+}
+#mainContainer A#addNewItem
+{
+	padding: 5px 11px;
+	background-color: #2A6DB4;
+	color: #fff;
+	top: -5px;
+    left: 5px;
+    position: relative;
+}
+#back
+{
+	background-color: #163A60;
+	border-bottom: 2px solid #2A6DB4;
+	padding: 25px 0 25px 10px !important;
+	color: #fff !important;
+}
+#addNew
+{
+	padding: 10px 0 10px 10px;
+	background-color: #163A60;
+}
+#addNewItem
+{
+	display: inline !important;
+}
+#addNewItem:hover
+{
+	background-color: #000 !important;
+}
+#mainList LI
+{
+	border-bottom-color: #ddd;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+}
+.goDeeper
+{
+	position: relative;
+}
+.deleteItem
+{
+	position: absolute;
+	right: 1px;
+	margin-top: -25px;
+	padding: 9px 15px;
+	background: #E5E5E5 !important;
+}
+#path
+{
+	padding: 10px;
+	font-size: 12px;
+	border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.handle {
+	position:absolute;
+	right: 45px;
+	margin-top: -25px;
+    padding: 9px 15px;
+	background: #E5E5E5 !important;
+}
+.editBtn {
+	padding: 9px 15px;
+		position:absolute;
+	right: 83px;
+	margin-top: -25px;
+	background: #E5E5E5 !important;
+	}
+
+.ui-sortable li {
+
+background-color: #f2f2f2;
+}
+
+
+#showActions {
+color: #ddd !important;
+    padding: 25px 20px !important;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+.actionContainer {
+	display:none;
+}
+
+#topBar {
+	position:relative;
+}
