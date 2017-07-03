@@ -15,26 +15,25 @@ General stuff:
 
 App main features:
 
-Save/Open itree
-View tree branches
-Add branch
-Edit branch
-Cut, Copy & Paste branches
-Sort branches
-Create new top branch (containing current top branches)
-Search for branch
-History/undo
-Viewchanger
-Print views
+- Save/Open itree
+- View tree branches
+- Add branch
+- Edit branch
+- Cut, Copy & Paste branches
+- Sort branches
+- Create new top branch (containing current top branches)
+- Search for branch
+- History/undo
+- Viewchanger
+- Print views
 
 ----------------------------------------------------------------
 
-iTree Server feature:
+iTree Server features:
 
-Accounts
-Colaborate
-Share
-Follow notifications
-Generate raports
-Settings
-
+- Accounts
+- Colaborate
+- Share
+- Follow notifications
+- Generate raports
+- Settings
