@@ -19,7 +19,7 @@ App main features:
 - View tree branches
 - Add branch
 - Edit branch
-- Cut, Copy & Paste branches
+- Cut/Copy & Paste branch
 - Sort branches
 - Create new top branch (containing current top branches)
 - Search for branch
